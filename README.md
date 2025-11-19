@@ -12,7 +12,7 @@
 - 🧪 **知识蒸馏（Knowledge Distillation）**
 - ⚡ **部署优化（deployment_optimization）**
 
-### 📚 仓库主要结构
+### 📁 仓库主要结构
 ```bash
 model_compression_study/
 ├── docs/                 # 技术文档相关
@@ -30,4 +30,5 @@ model_compression_study/
 └── README.md             # 项目介绍与使用说明
 ```
 
+### ⭐ 如果你觉得本项目有帮助，欢迎点个 Star！
 [![Star History Chart](https://api.star-history.com/svg?repos=TheodorePTP/model_compression_study&type=Date)](https://star-history.com/#TheodorePTP/model_compression_study&Date)
