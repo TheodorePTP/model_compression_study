@@ -16,16 +16,16 @@
 ```bash
 model_compression_study/
 ├── docs/                 # 技术文档相关
-│   ├── quantization/     # 量化
-│   ├── pruning/          # 剪枝
-│   └── distillation/     # 蒸馏
-│   └── deployment_optimization/ # 部署优化
+│   ├── quantization/     
+│   ├── pruning/          
+│   └── distillation/   
+│   └── deployment_optimization/ 
 │
 ├── experiments/          # 实验代码
 │   ├── quantization/      
 │   ├── pruning/        
 │   └── distillation/     
-│   └── deployment_optimization/ # 
+│   └── deployment_optimization/ 
 │
 └── README.md             # 项目介绍与使用说明
 ```
