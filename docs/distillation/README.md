@@ -14,5 +14,4 @@
 
 ## 本目录内容
 - [经典方法](classic_methods.md)：Hinton KD, FitNets, Attention Transfer...
-- [前沿进展](modern_approaches.md)：对比蒸馏、在线蒸馏、自蒸馏
 - [实践指南](practical_guide.md)：PyTorch 实现、超参设置、避坑建议
