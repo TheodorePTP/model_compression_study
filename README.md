@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Model Compression Study Banner" width="100%">
+  <img src="assets/common/banners/model_compression_banner.png" alt="Model Compression Study Banner" width="100%">
 </p>
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
