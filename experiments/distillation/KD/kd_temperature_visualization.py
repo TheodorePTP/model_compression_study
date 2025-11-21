@@ -1,3 +1,13 @@
+```
+脚本用途：
+https://blog.csdn.net/qq_44923064/article/details/155098435?fromshare=blogdetail&sharetype=blogdetail&sharerId=155098435&sharerefer=PC&sharesource=qq_44923064&sharefrom=from_link
+上文图1和图2的生成脚本
+
+使用方法：
+python kd_temperature_visualization.py
+
+```
+
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
